@@ -17,4 +17,4 @@ This project makes use of the following libraries
 
 Just type `run`
 
-Top stop the server type `stop`
+To stop the server type `stop`
