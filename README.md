@@ -1,7 +1,5 @@
 # Streamerd
-A video streaming server built following the Scala best practices.
-
-Built following [this](https://functorhub.com/func-arcs/landing.html) book.
+A video streaming server built following Scala best practices while reading [this](https://functorhub.com/func-arcs/landing.html) book.
 
 This project makes use of the following libraries
 
